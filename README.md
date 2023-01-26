@@ -97,6 +97,8 @@ a.six:hover {color:SlateGrey; background-color:LightGrey; text-decoration:underl
   <div class="main">
     <h2 style="text-align:center;">Welcome to where Wordless lives.</h2>
     <p style="text-align:center;">He has gotten so much ready for you.</p>
+    <p></p>
+    <p style="text-align:center;"><i>Best to be used on desktop.</i></p>
   </div>
 
   <div class="right">
