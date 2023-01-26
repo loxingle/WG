@@ -107,10 +107,8 @@ a.six:hover {color:SlateGrey; background-color:LightGrey; text-decoration:underl
 </body>
 <p></p>
   <div style="text-align: center; font-size: 17px">
-      <p><br></p>
-<a href="3_MWM.html" rel="" class="six">MEET THE WORDLESS MAN</a>
-    </div>
-<div style="font-size: 23px">
-  <a class="five" href="2_WHP (DRK).html" rel="import">&#x1F319;</a>
-</div>
+     <p><br></p>
+     <a href="3_MWM.html" rel="" class="six">MEET THE WORDLESS MAN</a>
+  </div>
+
 </html>
